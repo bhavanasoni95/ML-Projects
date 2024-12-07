@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+.ipynb_checkpoints
